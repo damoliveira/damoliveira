@@ -2,7 +2,7 @@
 ##### Fique avontade e aproveite a estadia.
 
 - 🔭 Eu estou atualmente trabalhando no front-end com React⚛️.
-- 🌱 Estou estudando PHP 🐘 e Laravel🧱.
+- 🌱 Estou estudando NEXT e Python.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Capital Federal (FECAF).
 - 🏈 Apaixonado por Futebol Americano - Torcedor do Miami Dolphins 🐬.
 
