@@ -2,11 +2,11 @@
 
 ##### Fique à vontade e aproveite a estadia.
 
-Sou um profissional formado em Análise e Desenvolvimento de Sistemas, com experiência em análise de dados, Web Analytics e implementação de Web Tracking. [cite: 2] Atualmente, estou trabalhando como Technology Analyst na Monks (Rocky Publicidade LTDA), onde me dedico à implementação de soluções de Web Tracking com Google Tag Manager, tagueamento mobile, estruturação de DataLayer, criação de dashboards interativos para análise de KPIs, estruturação de datasets para análise de desempenho e integração de plataformas, além de oferecer suporte à equipe de marketing digital. [cite: 8, 9, 10]
+Sou um profissional formado em Análise e Desenvolvimento de Sistemas, com experiência em análise de dados, Web Analytics e implementação de Web Tracking. Atualmente, estou trabalhando como Technology Analyst na **Monk**s , onde me dedico à implementação de soluções de Web Tracking com Google Tag Manager, tagueamento mobile, estruturação de DataLayer, criação de dashboards interativos para análise de KPIs, estruturação de datasets para análise de desempenho e integração de plataformas, além de oferecer suporte à equipe de marketing digital. 
 
 - 🔭 Atualmente trabalhando com foco em **Web Tracking**, **Google Tag Manager**, e **análise de dados**.
 - 🌱 Estou sempre em busca de novos aprendizados e desafios, atualmente cursando **Google Data Analytics**.
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela UniFECAF (2020-2023). [cite: 8]
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela UniFECAF (2020-2023). 
 - 🏈 Apaixonado por Futebol Americano - Torcedor do Miami Dolphins 🐬.
 
 ### Habilidades Principais:
