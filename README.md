@@ -1,10 +1,34 @@
-## Olá Seja Bem vindo eu sou o Daniel de Oliveira!!!
-##### Fique avontade e aproveite a estadia.
+## Olá, seja bem-vindo! Eu sou o Daniel de Oliveira Andrade!
 
-- 🔭 Eu estou atualmente trabalhando no front-end com React⚛️.
-- 🌱 Estou estudando NEXT e Python.
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Capital Federal (FECAF).
+##### Fique à vontade e aproveite a estadia.
+
+Sou um profissional formado em Análise e Desenvolvimento de Sistemas, com experiência em análise de dados, Web Analytics e implementação de Web Tracking. [cite: 2] Atualmente, estou trabalhando como Technology Analyst na Monks (Rocky Publicidade LTDA), onde me dedico à implementação de soluções de Web Tracking com Google Tag Manager, tagueamento mobile, estruturação de DataLayer, criação de dashboards interativos para análise de KPIs, estruturação de datasets para análise de desempenho e integração de plataformas, além de oferecer suporte à equipe de marketing digital. [cite: 8, 9, 10]
+
+- 🔭 Atualmente trabalhando com foco em **Web Tracking**, **Google Tag Manager**, e **análise de dados**.
+- 🌱 Estou sempre em busca de novos aprendizados e desafios, atualmente cursando **Google Data Analytics**.
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela UniFECAF (2020-2023). [cite: 8]
 - 🏈 Apaixonado por Futebol Americano - Torcedor do Miami Dolphins 🐬.
+
+### Habilidades Principais:
+* Análise e Interpretação de Dados
+* Monitoramento e Análise de KPIs
+* Estruturação de Datasets para Análise (BigQuery)
+* Extração de Insights
+* Web Analytics (Google Analytics - GA4)
+* Implementação e Gerenciamento de Web Tracking (Google Tag Manager - GTM)
+* Implementação de DataLayer
+* Tagueamento Mobile
+* Meta Conversion API (CAPI) Implementation
+* Power BI (Criação e Manutenção de Dashboards)
+* Looker Studio (Criação e Manutenção de Dashboards)
+* Excel Avançado (Tabelas Dinâmicas, Fórmulas, Gráficos)
+* SQL (Consultas básicas/intermediárias para extração de dados)
+* Meta Ads (Facebook/Instagram Ads)
+* Lógica de Programação
+
+### Contato:
+* **LinkedIn:** [Daniel Oliveira Andrade](https://www.linkedin.com/in/daniel-oliveira-andrade/)
+* **E-mail:** danieldeandrade21@gmail.com
 
 </br> 
 <div align="center">
