@@ -27,7 +27,6 @@ Sou um profissional formado em Análise e Desenvolvimento de Sistemas, com exper
 * Lógica de Programação
 
 ### Contato:
-* **LinkedIn:** [Daniel Oliveira Andrade](https://www.linkedin.com/in/daniel-oliveira-andrade/)
 * **E-mail:** danieldeandrade21@gmail.com
 
 </br> 
@@ -49,7 +48,7 @@ Sou um profissional formado em Análise e Desenvolvimento de Sistemas, com exper
 <div> 
  
   <a href="https://www.instagram.com/damoliveira96/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-oliveira-513b7a169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/daniel-oliveira-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/damoliveira/damoliveira/blob/output/github-contribution-grid-snake.svg)
  
